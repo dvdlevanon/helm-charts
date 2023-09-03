@@ -2,10 +2,10 @@ apiVersion: v1
 entries:
   aws-cloudwatch-logs-streamer:
   - apiVersion: v2
-    appVersion: v0.0.2
-    created: "2023-09-03T17:45:14.198284436+03:00"
+    appVersion: v0.0.4
+    created: "2023-09-03T17:53:55.734934328+03:00"
     description: A Helm chart for AWS Cloudwatch Logs Streamer
-    digest: 5adb1d25e3e1ea55e10457d06c715cd0a7881573cdf7c0bec6824667b8a20289
+    digest: 4de2151f3444e9d7926c66f8a969b1f241cf485eadd1553b4a6c33157bb0b2d6
     name: aws-cloudwatch-logs-streamer
     type: application
     urls:
@@ -14,7 +14,7 @@ entries:
   kubernetes-database-scaler:
   - apiVersion: v2
     appVersion: v0.0.23
-    created: "2023-09-03T17:45:14.198515868+03:00"
+    created: "2023-09-03T17:53:55.735187897+03:00"
     description: A Helm chart for Kubernetes Database Scaler
     digest: 1fedda8d5e7c808712a06b055995809cf3fe7ef5ef1371d5ca9f3b216802469d
     name: kubernetes-database-scaler
@@ -22,4 +22,4 @@ entries:
     urls:
     - kubernetes-database-scaler-0.1.0.tgz
     version: 0.1.0
-generated: "2023-09-03T17:45:14.197972935+03:00"
+generated: "2023-09-03T17:53:55.734638027+03:00"
