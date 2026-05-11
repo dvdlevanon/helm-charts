@@ -3,7 +3,7 @@ entries:
   aws-cloudwatch-logs-streamer:
   - apiVersion: v2
     appVersion: v0.0.5
-    created: "2025-07-13T22:39:00.938122951+03:00"
+    created: "2026-05-11T21:18:53.840815742+03:00"
     description: A Helm chart for AWS Cloudwatch Logs Streamer
     digest: 53fe07d956d3a7bee4ced38eabff90d984379b874e2e00d0a729eeaf3fcec248
     name: aws-cloudwatch-logs-streamer
@@ -11,10 +11,25 @@ entries:
     urls:
     - aws-cloudwatch-logs-streamer-0.1.0.tgz
     version: 0.1.0
+  dotnet-eshop:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2026-05-11T21:18:53.842493652+03:00"
+    description: Aspire Helm Chart
+    digest: dcb6dfe8d79d65dbd3b015e49abbcdf218a83f294d4e041548175ed5695ce503
+    keywords:
+    - aspire
+    - kubernetes
+    kubeVersion: '>= 1.18.0-0'
+    name: dotnet-eshop
+    type: application
+    urls:
+    - dotnet-eshop-0.2.0.tgz
+    version: 0.2.0
   kubernetes-database-scaler:
   - apiVersion: v2
     appVersion: v0.0.36
-    created: "2025-07-13T22:39:00.939030492+03:00"
+    created: "2026-05-11T21:18:53.843746409+03:00"
     description: A Helm chart for Kubernetes Database Scaler
     digest: 326a54f7ac8483ba8032ec037e0655b56496ef187485e221f786686ad24366c9
     name: kubernetes-database-scaler
@@ -24,7 +39,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: v0.0.32
-    created: "2025-07-13T22:39:00.938772043+03:00"
+    created: "2026-05-11T21:18:53.843320715+03:00"
     description: A Helm chart for Kubernetes Database Scaler
     digest: ee7b4cc87bbba416d188bf5400189b157289bd00edc8fd9da5556b1d50af62dd
     name: kubernetes-database-scaler
@@ -34,7 +49,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: v0.0.27
-    created: "2025-07-13T22:39:00.938476054+03:00"
+    created: "2026-05-11T21:18:53.842963388+03:00"
     description: A Helm chart for Kubernetes Database Scaler
     digest: e046d2b9e3f31967acf2080251420031704b21d341e616c0aa127b5a46610a58
     name: kubernetes-database-scaler
@@ -42,4 +57,4 @@ entries:
     urls:
     - kubernetes-database-scaler-0.1.0.tgz
     version: 0.1.0
-generated: "2025-07-13T22:39:00.937802113+03:00"
+generated: "2026-05-11T21:18:53.840423867+03:00"
