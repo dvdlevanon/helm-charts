@@ -3,7 +3,7 @@ entries:
   aws-cloudwatch-logs-streamer:
   - apiVersion: v2
     appVersion: v0.0.5
-    created: "2026-05-12T12:10:47.758706585+03:00"
+    created: "2026-05-12T12:15:14.861027967+03:00"
     description: A Helm chart for AWS Cloudwatch Logs Streamer
     digest: 53fe07d956d3a7bee4ced38eabff90d984379b874e2e00d0a729eeaf3fcec248
     name: aws-cloudwatch-logs-streamer
@@ -14,7 +14,21 @@ entries:
   dotnet-eshop:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-05-12T12:10:47.768237238+03:00"
+    created: "2026-05-12T12:15:14.876073527+03:00"
+    description: Aspire Helm Chart
+    digest: 74732b22b462fc2e77aeb562a5a9c14e46c3df42c4650ebd8f973e3595ca8510
+    keywords:
+    - aspire
+    - kubernetes
+    kubeVersion: '>= 1.18.0-0'
+    name: dotnet-eshop
+    type: application
+    urls:
+    - dotnet-eshop-0.5.0.tgz
+    version: 0.5.0
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2026-05-12T12:15:14.870485842+03:00"
     description: Aspire Helm Chart
     digest: 653e7b5941053a972aae77fed9cdd0830677aa6ec4165a1d6d25f3aa3e172a7f
     keywords:
@@ -28,7 +42,7 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-05-12T12:10:47.764647069+03:00"
+    created: "2026-05-12T12:15:14.865841214+03:00"
     description: Aspire Helm Chart
     digest: 382af6abf774d71822eb06024d11921bdef753db0d2e5cb8c1b3d6d2c40da6bd
     keywords:
@@ -42,7 +56,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-05-12T12:10:47.762169768+03:00"
+    created: "2026-05-12T12:15:14.863744087+03:00"
     description: Aspire Helm Chart
     digest: d528c58fd30c988d640f0e0eb6ed28459dd04eb611c6e5d41728da793e45ec49
     keywords:
@@ -57,7 +71,7 @@ entries:
   kubernetes-database-scaler:
   - apiVersion: v2
     appVersion: v0.0.36
-    created: "2026-05-12T12:10:47.769049668+03:00"
+    created: "2026-05-12T12:15:14.87677144+03:00"
     description: A Helm chart for Kubernetes Database Scaler
     digest: 326a54f7ac8483ba8032ec037e0655b56496ef187485e221f786686ad24366c9
     name: kubernetes-database-scaler
@@ -67,7 +81,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: v0.0.32
-    created: "2026-05-12T12:10:47.768796508+03:00"
+    created: "2026-05-12T12:15:14.876551571+03:00"
     description: A Helm chart for Kubernetes Database Scaler
     digest: ee7b4cc87bbba416d188bf5400189b157289bd00edc8fd9da5556b1d50af62dd
     name: kubernetes-database-scaler
@@ -77,7 +91,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: v0.0.27
-    created: "2026-05-12T12:10:47.768524554+03:00"
+    created: "2026-05-12T12:15:14.876328467+03:00"
     description: A Helm chart for Kubernetes Database Scaler
     digest: e046d2b9e3f31967acf2080251420031704b21d341e616c0aa127b5a46610a58
     name: kubernetes-database-scaler
@@ -85,4 +99,4 @@ entries:
     urls:
     - kubernetes-database-scaler-0.1.0.tgz
     version: 0.1.0
-generated: "2026-05-12T12:10:47.758393708+03:00"
+generated: "2026-05-12T12:15:14.860759896+03:00"
